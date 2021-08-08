@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Packaging" playSound="true" />
+  </component>
+</application>

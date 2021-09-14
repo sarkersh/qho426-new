@@ -1,0 +1,6 @@
+Hello, world!
+What is your age? 45
+Your age is 45
+
+We are happy to sell you anything
+4
